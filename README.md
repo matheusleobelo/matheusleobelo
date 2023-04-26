@@ -1,16 +1,21 @@
-### Hi there 👋
+# Matheus Leonardo - Desenvolvedor Back End
 
-<!--
-**matheusleobelo/matheusleobelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Matheus Leonardo, tenho 20 anos e sou desenvolvedor back end. Atualmente, estudo as seguintes tecnologias:
 
-Here are some ideas to get you started:
+- Design UX/UI
+- JavaScript
+- HTML
+- CSS
+- ReactJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+Eu sou um desenvolvedor back end apaixonado por criar soluções inovadoras e eficientes para problemas complexos. Eu sou dedicado e focado em meu trabalho e estou sempre buscando aprender e evoluir minhas habilidades.
+
+## Contato
+
+Se você estiver interessado em trabalhar comigo em um projeto ou apenas quer bater um papo, sinta-se à vontade para entrar em contato comigo!
+
+- Email: matheusleonardobelocollege@gmail.com
+- LinkedIn: https://www.linkedin.com/in/matheus-leonardo-703598236/
+
